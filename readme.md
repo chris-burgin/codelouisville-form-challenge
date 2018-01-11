@@ -17,4 +17,4 @@
 6. This is a bonus question. In the "style.css" file set the html
    background color to #252C3A.
 7. This is a bonus question. Set the background color of the form to #F1F1F1 and give the form 20px of padding.
-8. Extra extra bonus points. Get this code challenge up on your github, we will show you how during our next class session. Butit doesnt hurt to try now.
+8. Extra extra bonus points. Get this code challenge up on your github, we will show you how during our next class session. But it doesnt hurt to try now.
